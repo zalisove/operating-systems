@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "arraylist.h": "c",
+        "malloc.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
