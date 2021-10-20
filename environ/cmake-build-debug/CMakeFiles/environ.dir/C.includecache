@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sasha/Документи/OC/environ/main.c
+stdio.h
+-
+unistd.h
+-
+getopt.h
+-
+stdlib.h
+-
+string.h
+-
+

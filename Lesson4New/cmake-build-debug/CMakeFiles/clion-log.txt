@@ -1,0 +1,2 @@
+CMakeLists.txt not found in /home/sasha/Документи/OC/Lesson4New Select CMakeLists.txt
+CMake executable is incorrect Configure Disable profile
